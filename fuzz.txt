@@ -1771,6 +1771,7 @@ cc-errors.txt
 cc-log.txt
 ccbill.log
 ccp14admin/
+cdn/
 celerybeat-schedule
 cell.xml
 centreon/
